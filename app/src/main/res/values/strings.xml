@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NMIT APP </string>
+    <string-array name="Difficulty">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
