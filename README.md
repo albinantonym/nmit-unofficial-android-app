@@ -2,7 +2,7 @@
 
 This is a simple Android app built to help NMIT students by providing quick access and shortcuts to commonly used resources.
 
-![NMIT APP](/assets/IMG-20250303-WA0000-2.jpg)
+![NMIT APP](/assets/IMG-20250303-WA0000-2.jpg?update=1)
 
 ## Sections
 
